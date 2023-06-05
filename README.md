@@ -12,6 +12,8 @@
 
 Création du site web en Html et CSS relier à la base de donnée avec des requêtes en PHP
 
+Si vous voulez voir plus d'information : lire MatisVivier-Dosser.pdf
+
 -------
  Sujet
 -------
